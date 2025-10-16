@@ -1,1 +1,1 @@
-# My-Python-Learning-2
+# My-Python-Learning-2 (strings)
